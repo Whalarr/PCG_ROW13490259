@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2dd421e44e1a391498ea9998604fd460
+timeCreated: 1519229969
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HexMap: {fileID: 1934188561915234, guid: 2b458188e6a8ee14d9b8453f99148d95, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
